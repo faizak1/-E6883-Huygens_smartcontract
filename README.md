@@ -1,5 +1,5 @@
 # -E6883-Huygens_smartcontract
-Blockchain Solidity Course Project
+Blockchain Solidity Course Project -  Degree Verification System
 
 Install
 Go to the source directory and open terminal, please run this command.
